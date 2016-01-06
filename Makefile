@@ -7,7 +7,7 @@ REGISTRY = registry.ticket-tool.com:5000
 
 gulp-build-local:
 	# Build the front static website
-	npm install /Users/BoB/Prog/warm --save && npm install && gulp clean && gulp build
+	npm install /home/charlie/Github/warm --save && npm install && gulp clean && gulp build
 
 	# Generate info.json using current git sha1
 	#../etc/bin/generate-info.sh dist/info.json

@@ -81,7 +81,8 @@ var Index = React.createClass({
                         <p>
                             <br></br>
                         WARM is a library containing ReactJS components which can be used to create your own WebApp.<br></br>
-                        Feel free to clone the Github repository and explore the code and modify it to suit your needs.
+                        Feel free to clone the Github repository and explore the code and modify it to suit your needs.<br></br>
+                        Some of the inputs are static, don't worry, the reason is that they are using props instead of state !
                         </p>
                     </div>
                 </div>
